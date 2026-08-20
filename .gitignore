@@ -14,3 +14,7 @@ Temporary / swap files
 *.swo
 *.tmp
 *.log
+
+Automation
+
+project_bootstrap.sh
