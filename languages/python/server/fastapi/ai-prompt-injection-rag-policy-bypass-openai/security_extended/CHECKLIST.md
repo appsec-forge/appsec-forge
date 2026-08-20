@@ -1,0 +1,24 @@
+- Separate system instructions from user-controlled content using role isolation.
+- Never concatenate retrieved context and user input into a single prompt string.
+- Treat all user prompts as untrusted input.
+- Deny requests attempting to reveal prompts, policies, or internal context.
+- Validate prompt size before sending requests to the model.
+- Restrict model output length using token limits.
+- Remove secrets from retrieved documents before prompt injection.
+- Sanitize model responses before returning them to clients.
+- Apply output filtering for credentials, tokens, and sensitive identifiers.
+- Enforce explicit prompt governance rules in system instructions.
+- Log blocked prompt injection attempts with request metadata.
+- Detect prompt override keywords and instruction manipulation patterns.
+- Disable debugging responses in production AI environments.
+- Restrict access to internal operational documents.
+- Avoid storing secrets inside RAG-accessible content.
+- Implement allowlists for supported AI actions and workflows.
+- Monitor abnormal response structures and disclosure attempts.
+- Isolate AI processing services from sensitive infrastructure zones.
+- Validate retrieval sources before exposing them to the model.
+- Apply request rate limiting to AI endpoints.
+- Restrict unsupported prompt formats and serialized payloads.
+- Store AI audit logs with immutable retention policies.
+- Continuously test prompt injection scenarios during releases.
+- Use verification.sh script to validate critical protections before deployment. Be sure to adapt it and expand the coverage according to the required requirements.
