@@ -12,6 +12,7 @@ Study security problems the same way experienced engineering teams solve them: u
 
 [1. Before You Start](#1-before-you-start)
 - [About](#about)
+- [Which Cases Are Currently Available](#which-cases-are-currently-available)
 - [Pro Access](#pro-access)
 - [What to Expect?](#what-to-expect)
 - [How to Study appsec-forge](#how-to-study-appsec-forge)
@@ -41,15 +42,25 @@ The repository is designed for studying and comparing implementations rather tha
 
 ---
 
+## Which Cases Are Currently Available
+
+The repository structure includes technologies and areas planned for coverage. To see exactly which cases are currently published and available, visit:
+
+[www.appsecforge.com/cases](https://www.appsecforge.com/cases)
+
+---
+
 ## Pro Access
 
 This repository contains the free **appsec-forge Public edition**.
 
-**appsec-forge-pro is available exclusively through the official appsec-forge website.** Pro purchases and access are managed through GitHub after purchase.
+The **Pro edition** includes the same cases with additional production-oriented security engineering content.
 
-To learn more about Pro and purchase access, visit the official appsec-forge website:
+To learn more about Pro and purchase access, visit:
 
-[www.appsecforge.com](https://www.appsecforge.com)
+[www.appsecforge.com/#pricing](https://www.appsecforge.com/#pricing)
+
+---
 
 ---
 
@@ -262,6 +273,16 @@ Everything included in the Public edition, plus:
 The Public edition introduces the vulnerability and its foundational remediation.
 
 The Pro edition extends the same case with production-oriented security engineering practices.
+
+### How to Get Pro
+
+1. Open the [Pricing page](https://www.appsecforge.com/#pricing) and select Pro.
+2. Continue with the GitHub account that should receive access.
+3. Review the purchase details and complete checkout.
+4. Accept the GitHub organization invitation sent by email.
+5. On GitHub, switch the repository selector from **View as: Public** to **View as: Member**.
+
+Your purchased Private Pro repository with lifetime access will then become visible.
 
 ---
 
