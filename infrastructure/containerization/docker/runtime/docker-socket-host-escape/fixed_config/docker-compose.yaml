@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  app:
+    image: docker:24.0-cli
+    container_name: fixed-app
+    command: ["sh", "-c", "sleep infinity"]
+    # FIX: Removed docker.sock mount to prevent 
+    # direct access to Docker daemon
+    networks:
+      - app-net
+
+networks:
+  app-net:

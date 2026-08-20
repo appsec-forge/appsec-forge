@@ -1,0 +1,16 @@
+version: "3.8"
+
+services:
+  app:
+    image: docker:24.0-cli
+    container_name: vulnerable-app
+    command: ["sh", "-c", "sleep infinity"]
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    # VULNERABLE: Docker socket is exposed to the container, 
+    # allowing full control over host Docker daemon (root-level access)
+    networks:
+      - app-net
+
+networks:
+  app-net:
