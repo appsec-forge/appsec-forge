@@ -1,0 +1,85 @@
+# appsec-forge Public Educational License
+
+Copyright (c) 2026 appsec-forge
+
+## 1. Purpose
+
+appsec-forge is an educational security engineering resource.
+
+The Materials are provided to help Developers, DevOps, AppSec, DevSecOps, and Security Engineers study realistic security problems, understand vulnerabilities, analyze remediation approaches, and apply security knowledge independently.
+
+The Materials are provided for educational and reference purposes only.
+
+## 2. Definitions
+
+For the purposes of this License:
+
+* **"Materials"** means all content provided in this repository, including code, configurations, scripts, documentation, exploit demonstrations, fixes, examples, and other repository content.
+* **"Repository Materials"** means the Materials as provided by appsec-forge, including identifiable copies or substantial portions of them.
+* **"Independent Work"** means code, configurations, documentation, or other work independently created by a user based on knowledge, concepts, ideas, principles, techniques, patterns, or approaches learned from the Materials.
+
+## 3. Permitted Use
+
+You may:
+
+* access, study, and use the Materials for personal learning and educational purposes;
+* experiment with the Materials in private or controlled environments;
+* analyze and modify the Materials for your own learning, testing, experimentation, and internal evaluation;
+* learn from the Materials and independently apply the knowledge gained from them;
+* use general ideas, concepts, principles, techniques, security patterns, remediation approaches, and engineering knowledge learned from the Materials in your own work;
+* independently create, modify, adapt, or implement code and configurations inspired by or based on knowledge learned from the Materials;
+* use your independently created implementations in personal, internal, professional, commercial, or production environments.
+
+Nothing in this License prevents you from applying general knowledge or independently implementing security patterns learned from the Materials.
+
+You are responsible for reviewing, testing, adapting, validating, and securing any implementation used in a development, commercial, or production environment.
+
+## 4. Restrictions
+
+You may not publicly distribute, publish, reproduce, re-host, sublicense, sell, or otherwise make available to third parties:
+
+* the Repository Materials;
+* copies of the Repository Materials;
+* modified or adapted versions of the Repository Materials;
+* substantial portions of the Repository Materials;
+* materials that substantially reproduce the structure, code, configurations, documentation, or other protected expression contained in this repository.
+
+You may not use the Repository Materials themselves as content for a competing repository, course, tutorial, training product, documentation set, commercial educational product, or other redistributed work.
+
+You may not remove or alter copyright notices, license notices, or attribution identifying appsec-forge as the source of the Materials.
+
+## 5. Independent Application of Knowledge
+
+Copyright and this License do not restrict the use of general ideas, concepts, principles, methods, techniques, or knowledge learned from the Materials.
+
+You may learn from a case, understand its security pattern, and independently implement a similar or improved solution in your own work.
+
+However, publicly redistributing Repository Materials, modified Repository Materials, or substantial portions of Repository Materials is not permitted.
+
+## 6. No Production Guarantee
+
+The Materials are educational reference implementations.
+
+Vulnerable code, configurations, exploit demonstrations, fixes, security controls, and other examples may be intentionally simplified and may not be suitable for production use without review and adaptation.
+
+You are solely responsible for evaluating whether any implementation is appropriate for your architecture, threat model, dependencies, infrastructure, operational requirements, compliance obligations, and security requirements.
+
+## 7. Educational and Authorized Security Testing Only
+
+Only perform exploit demonstrations, security testing, or similar activities against systems that you own or are explicitly authorized to test.
+
+## 8. Attribution
+
+When referring to or quoting permitted portions of the Materials in a context allowed by this License or applicable law, appropriate credit to appsec-forge must be provided.
+
+## 9. No Warranty
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, OR FITNESS FOR PRODUCTION USE.
+
+IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, LOSSES, OR OTHER LIABILITY ARISING FROM THE USE OF OR INABILITY TO USE THE MATERIALS.
+
+## 10. Reservation of Rights
+
+All rights not expressly granted under this License are reserved by appsec-forge.
+
+This License does not transfer ownership of the Materials or any intellectual property rights in the Materials to you.

@@ -1,0 +1,16 @@
+System
+
+.DS_Store
+Thumbs.db
+
+IDEs
+
+.vscode/
+.idea/
+
+Temporary / swap files
+
+*.swp
+*.swo
+*.tmp
+*.log
