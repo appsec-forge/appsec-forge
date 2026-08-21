@@ -62,8 +62,6 @@ To learn more about Pro and purchase access, visit:
 
 ---
 
----
-
 ## What to Expect
 
 The repository assumes familiarity with modern software development and is intended for engineers who want to strengthen practical security engineering skills.
@@ -83,7 +81,6 @@ Vulnerable code, configurations, exploit demonstrations, fixes, security control
 Production security decisions must account for the specific architecture, threat model, dependencies, infrastructure, operational requirements, and applicable compliance obligations of the environment.
 
 Only perform exploit demonstrations or security testing against systems you own or are explicitly authorized to test.
-
 
 ---
 
