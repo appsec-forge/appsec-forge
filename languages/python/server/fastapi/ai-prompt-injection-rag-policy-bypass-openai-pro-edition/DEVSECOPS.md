@@ -24,7 +24,7 @@ Link: [ai-prompt-injection-rag-policy-bypass-openai detection script](/devsecops
 
 **Custom verification script** — delivers a focused, reusable verification baseline ensuring availability of a defined critical protection before deployment — adaptable to local and pipeline needs and suitable to be a part of policy foundation.
 
-Link: [ai-prompt-injection-rag-policy-bypass-openai verification script](/languages/python/server/fastapi/ai-prompt-injection-rag-policy-bypass-openai/security_extended/verification.sh)
+Link: [ai-prompt-injection-rag-policy-bypass-openai verification script](/languages/python/server/fastapi/ai-prompt-injection-rag-policy-bypass-openai-pro-edition/security_extended/verification.sh)
 
 # Basic production-oriented configs example
 
